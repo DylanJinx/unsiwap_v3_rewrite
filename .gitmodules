@@ -1,3 +1,6 @@
 [submodule "unsiwap_v3_contract/lib/forge-std"]
 	path = unsiwap_v3_contract/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "unsiwap_v3_contract/lib/openzeppelin-contracts"]
+	path = unsiwap_v3_contract/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
